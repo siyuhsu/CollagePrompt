@@ -14,7 +14,6 @@ ArXiv Preprint ([arXiv 2403.11468](https://arxiv.org/abs/2403.11468))
 
 
 ## Updates
-* 5 Jul: We will release the 
 * 12 Jun: We released the `CollagePrompt` Dataset ([Google Drive](https://drive.google.com/drive/folders/1kIEGrIEojo8dDsIaz-dQLrV6GViexrlz?usp=drive_link)).
 * 29 May: We are working hard in releasing the code, it will be public in several days.
 
