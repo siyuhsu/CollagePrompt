@@ -14,8 +14,9 @@ ArXiv Preprint ([arXiv 2403.11468](https://arxiv.org/abs/2403.11468))
 
 
 ## Updates
-* 29 Jun: We uploaded the `CollagePrompt` Dataset on [Kaggle](https://www.kaggle.com/datasets/siyuxu/collageprompt)
-* 12 Jun: We released the `CollagePrompt` Dataset ([Google Drive](https://drive.google.com/file/d/1UVK0GhE1aQm1Fq7JDx93oZ4xpD2ZCUT8/view?usp=drive_link)).
+* 9 Jul, 2024: Code for baseline `LCP` is available.
+* 29 Jun, 2024: We uploaded the `CollagePrompt` Dataset on [Kaggle](https://www.kaggle.com/datasets/siyuxu/collageprompt)
+* 12 Jun, 2024: We released the `CollagePrompt` Dataset ([Google Drive](https://drive.google.com/file/d/1UVK0GhE1aQm1Fq7JDx93oZ4xpD2ZCUT8/view?usp=drive_link)).
 * 29 May: We are working hard in releasing the code, it will be public in several days.
 
 
