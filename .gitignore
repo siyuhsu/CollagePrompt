@@ -4,10 +4,6 @@ dataset/train/metainfo/*
 dataset/train/subset/*
 dataset/val/*
 
-*.py
-*.jpeg
-
-
 __pycache__/
 *.py[cod]
 *$py.class
