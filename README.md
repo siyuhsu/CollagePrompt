@@ -41,6 +41,27 @@
 
 
 ## Overview
+![CollagePrompt](docs/assets/teaser.jpg)
+The CollagePrompt is a benchmark platform designed to address the financial challenges associated with utilizing GPT-4V for visual recognition tasks. By leveraging grid collages of various sizes, this benchmark provides an efficient and cost-effective approach to visual recognition without significantly compromising accuracy. The dataset includes a variety of visual prompts that have been carefully curated to facilitate robust testing and optimization of AI models.
+
+### Dataset Statistics:
+
+- **2x2 Collages:**
+  - Training Set: 25,000 collages and 110,250 collage prompts from ImageNet-1K
+  - Validation Set: 12,500 collages from ImageNet-1K
+- **3x3 Collages:**
+  - Training Set: 11,111 collages and 102,646 collages prompts from ImageNet-1K
+  - Validation Set: 5,555 collages from ImageNet-1K
+- **Additional Validation Sets:** The validation sets also include collages from other common image recognition datasets such as Aircraft, Caltech101, DTD, EuroSAT, Food101, OxfordFlowers, OxfordPets, StanfordCars, SUN397, and UCF101.
+
+### Key Features:
+
+- **Cost Efficiency:** Transitioning from single images to grid collages (e.g., 2x2) significantly reduces inference costs and time while maintaining an acceptable level of accuracy.
+- **Grid Size Optimization:** The benchmark highlights the practical value of optimizing arrangements for 2x2 and 3x3 grids, balancing cost and accuracy effectively.
+- **Baseline Algorithms:** The dataset has been used to train and evaluate baseline algorithms for optimizing collage prompts, providing a solid foundation for further research and development.
+
+Using the CollagePrompt benchmark, researchers can optimize image arrangements to minimize accuracy loss and reduce costs associated with GPT-4V’s visual recognition tasks.
+
 <details>
 
 ### Abstract
