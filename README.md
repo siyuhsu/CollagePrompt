@@ -4,10 +4,13 @@
 
 <h3>CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V</h3>
 
-[Anonymouse]
+[Siyu Xu](https://siyuxu.com), [Yunke Wang](https://yunke-wang.github.io/), [Daochang Liu](https://daochang.site/), [Bo Du](https://scholar.google.com/citations?hl=en&user=Shy1gnMAAAAJ), [Chang Xu](http://changxu.xyz/)
 
 <a href="https://collageprompting.github.io/">
         <img src="https://img.shields.io/badge/Project-Page-a" alt="Project: Page">
+    </a>
+<a href="https://arxiv.org/abs/2403.11468">
+        <img src="https://img.shields.io/badge/arXiv-2403.11468-b31b1b" alt="Preprint: arXiv">
     </a>
 <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
@@ -15,8 +18,8 @@
 <a href="https://creativecommons.org/licenses/by/4.0/">
         <img src="https://img.shields.io/badge/License-CC_BY_4.0-05b5da.svg" alt="License: CC BY 4.0">
     </a>
-<a href="https://drive.google.com/file/d/1UVK0GhE1aQm1Fq7JDx93oZ4xpD2ZCUT8/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/Dataset-Kaggle-20beff.svg" alt="Dataset: Google">
+<a href="https://www.kaggle.com/datasets/siyuxu/collageprompt/">
+        <img src="https://img.shields.io/badge/Dataset-Kaggle-20beff.svg" alt="Dataset: Kaggle">
     </a>
 </div>
 
